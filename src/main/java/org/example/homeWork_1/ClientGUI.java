@@ -1,4 +1,4 @@
-package org.example;
+package org.example.homeWork_1;
 
 import javax.swing.*;
 import java.awt.*;
